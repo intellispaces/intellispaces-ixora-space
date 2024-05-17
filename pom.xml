@@ -7,7 +7,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>intellispaces-basic</artifactId>
+    <artifactId>intellispaces-ixora-basic</artifactId>
     <packaging>jar</packaging>
 
     <build>
