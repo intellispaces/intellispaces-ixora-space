@@ -1,12 +1,20 @@
-package tech.intellispaces.ixora.basic;
+package intellispaces.ixora.core;
 
 /**
  * Space transition.<p/>
  *
+ * Each point of this domain represents transition.<p/>
+ *
  * Transition types could not have type parameters.
  */
 @tech.intellispaces.framework.core.annotation.Domain("cfb5a7d8-6812-4dbe-81f6-14ff4855e6d1")
-public interface Transition {
+public interface Transition extends Point {
+
+  @Override
+  @tech.intellispaces.framework.core.annotation.Transition("01909039-0086-72c5-9e74-fe47e96341ca")
+  default Class<? extends Transition> domain() {
+    return Transition.class;
+  }
 
   @tech.intellispaces.framework.core.annotation.Transition("5d1bf548-23cf-4e4b-8e55-cd9979f73635")
   String tid();

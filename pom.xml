@@ -7,7 +7,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>ixora-basic-ontology</artifactId>
+    <artifactId>ixora-core-ontology</artifactId>
     <packaging>jar</packaging>
 
     <build>
