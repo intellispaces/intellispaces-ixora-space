@@ -1,4 +1,4 @@
-package intellispaces.ixora.core;
+package intellispaces.ixora.mindstructs.core;
 
 /**
  * Space transition.<p/>
