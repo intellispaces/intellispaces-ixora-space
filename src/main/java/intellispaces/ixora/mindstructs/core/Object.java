@@ -12,6 +12,6 @@ public interface Object extends Point {
   @Override
   @Transition("01909039-91f5-78ca-bd53-65e97cf6f525")
   default Class<?> domain() {
-    return Object.class;
+    return intellispaces.ixora.mindstructs.core.Object.class;
   }
 }
