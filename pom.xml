@@ -7,7 +7,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>mindstructs</groupId>
+    <groupId>intellispaces</groupId>
     <artifactId>ixora-core-ontology</artifactId>
     <packaging>jar</packaging>
 
