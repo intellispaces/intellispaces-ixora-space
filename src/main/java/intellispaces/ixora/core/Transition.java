@@ -10,11 +10,8 @@ package intellispaces.ixora.core;
 @tech.intellispaces.core.annotation.Domain("cfb5a7d8-6812-4dbe-81f6-14ff4855e6d1")
 public interface Transition extends Point {
 
-  @Override
-  @tech.intellispaces.core.annotation.Transition("01909039-0086-72c5-9e74-fe47e96341ca")
-  default Class<? extends Transition> domain() {
-    return Transition.class;
-  }
+  @tech.intellispaces.core.annotation.Transition("708c11b9-df80-43ef-a820-2d976ff779b6")
+  Point asPoint();
 
   @tech.intellispaces.core.annotation.Transition("5d1bf548-23cf-4e4b-8e55-cd9979f73635")
   String tid();

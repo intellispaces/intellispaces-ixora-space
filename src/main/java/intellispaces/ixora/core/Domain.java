@@ -12,9 +12,6 @@ import tech.intellispaces.core.annotation.Transition;
 @tech.intellispaces.core.annotation.Domain("1a243181-9d2b-48d2-bbcf-cd1f18311011")
 public interface Domain extends Point {
 
-  @Override
-  @Transition("01909039-39ce-7e5e-bf6f-5a3b9e6d1594")
-  default Class<? extends Domain> domain() {
-    return Domain.class;
-  }
+  @Transition("1d9a3eaf-cb88-4d0a-84a1-5e6b21235aa9")
+  Point asPoint();
 }
