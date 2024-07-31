@@ -1,7 +1,7 @@
 package intellispaces.ixora.core;
 
 /**
- * Space transition.<p/>
+ * Semantic space transition.<p/>
  *
  * Each point of this domain represents transition.<p/>
  *
