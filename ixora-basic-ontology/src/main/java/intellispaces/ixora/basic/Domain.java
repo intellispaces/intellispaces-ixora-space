@@ -1,4 +1,4 @@
-package intellispaces.ixora.core;
+package intellispaces.ixora.basic;
 
 import tech.intellispaces.core.annotation.Transition;
 

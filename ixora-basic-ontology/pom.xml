@@ -3,11 +3,11 @@
 
     <parent>
         <groupId>intellispaces</groupId>
-        <artifactId>ixora-core-parent</artifactId>
+        <artifactId>ixora-basic-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>ixora-core-ontology</artifactId>
+    <artifactId>ixora-basic-ontology</artifactId>
     <packaging>jar</packaging>
 	
     <build>

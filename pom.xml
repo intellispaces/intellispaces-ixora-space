@@ -8,11 +8,11 @@
     </parent>
 
     <groupId>intellispaces</groupId>
-    <artifactId>ixora-core-parent</artifactId>
+    <artifactId>ixora-basic-parent</artifactId>
     <packaging>pom</packaging>
 
     <modules>
-        <module>ixora-core-ontology</module>
+        <module>ixora-basic-ontology</module>
     </modules>
 
     <build>

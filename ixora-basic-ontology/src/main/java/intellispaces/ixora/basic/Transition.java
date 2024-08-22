@@ -1,4 +1,4 @@
-package intellispaces.ixora.core;
+package intellispaces.ixora.basic;
 
 /**
  * Semantic space transition.<p/>
