@@ -1,8 +1,8 @@
 package intellispaces.ixora.basic;
 
-import tech.intellispaces.core.annotation.Domain;
-import tech.intellispaces.core.annotation.Transition;
-import tech.intellispaces.javastatements.type.Type;
+import intellispaces.core.annotation.Domain;
+import intellispaces.core.annotation.Transition;
+import intellispaces.javastatements.type.Type;
 
 /**
  * Semantic space point.
