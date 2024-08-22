@@ -3,18 +3,13 @@
 
     <parent>
         <groupId>intellispaces</groupId>
-        <artifactId>intellispaces-parent-pom</artifactId>
+        <artifactId>ixora-core-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>intellispaces</groupId>
-    <artifactId>ixora-core-parent</artifactId>
-    <packaging>pom</packaging>
-
-    <modules>
-        <module>ixora-core-ontology</module>
-    </modules>
-
+    <artifactId>ixora-core-ontology</artifactId>
+    <packaging>jar</packaging>
+	
     <build>
         <plugins>
             <plugin>
@@ -27,18 +22,4 @@
             </plugin>
         </plugins>
     </build>
-
-    <dependencies>
-        <!-- Intellispaces -->
-        <dependency>
-            <groupId>intellispaces</groupId>
-            <artifactId>intellispaces-core</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>intellispaces</groupId>
-            <artifactId>intellispaces-javastatements-model</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
 </project>
