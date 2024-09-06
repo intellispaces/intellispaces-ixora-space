@@ -1,7 +1,7 @@
-package intellispaces.ixora.basic;
+package intellispaces.ixora.base;
 
-import intellispaces.core.annotation.Domain;
-import intellispaces.core.annotation.Transition;
+import intellispaces.framework.core.annotation.Domain;
+import intellispaces.framework.core.annotation.Transition;
 
 /**
  * Domain of objects represented semantic space domains.<p/>

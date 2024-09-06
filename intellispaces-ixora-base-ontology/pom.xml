@@ -2,12 +2,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>intellispaces</groupId>
-        <artifactId>ixora-basic-parent</artifactId>
+        <groupId>intellispaces-ixora</groupId>
+        <artifactId>intellispaces-ixora-base-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>ixora-basic-ontology</artifactId>
+    <artifactId>intellispaces-ixora-base-ontology</artifactId>
     <packaging>jar</packaging>
 	
     <build>
