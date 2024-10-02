@@ -1,8 +1,8 @@
 package intellispaces.ixora.base;
 
 import intellispaces.common.base.type.Type;
+import intellispaces.framework.core.annotation.Channel;
 import intellispaces.framework.core.annotation.Domain;
-import intellispaces.framework.core.annotation.Transition;
 
 /**
  * Domain of objects represented semantic space points.
@@ -13,6 +13,6 @@ public interface PointDomain {
   /**
    * Basic point domain.
    */
-  @Transition("bcdfe93c-e2ec-4c51-a83b-e2ff2b48b9db")
+  @Channel("bcdfe93c-e2ec-4c51-a83b-e2ff2b48b9db")
   Type<?> domain();
 }
