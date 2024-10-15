@@ -7,7 +7,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>intellispaces-ixora-base-ontology</artifactId>
+    <artifactId>intellispaces-ixora-space-ontology</artifactId>
     <packaging>jar</packaging>
 	
     <build>

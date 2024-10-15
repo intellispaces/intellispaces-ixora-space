@@ -1,4 +1,4 @@
-package intellispaces.ixora.base;
+package intellispaces.ixora.space;
 
 import intellispaces.framework.core.annotation.Channel;
 import intellispaces.framework.core.annotation.Domain;
@@ -15,7 +15,7 @@ public interface ChannelDomain extends PointDomain {
   PointDomain asPoint();
 
   @Channel("5d1bf548-23cf-4e4b-8e55-cd9979f73635")
-  String tid();
+  String cid();
 
   @Channel("019078a1-8372-7e53-8e06-dc83e0c11b97")
   String simpleName();

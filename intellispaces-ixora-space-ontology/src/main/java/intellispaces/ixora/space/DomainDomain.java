@@ -1,4 +1,4 @@
-package intellispaces.ixora.base;
+package intellispaces.ixora.space;
 
 import intellispaces.framework.core.annotation.Channel;
 import intellispaces.framework.core.annotation.Domain;
