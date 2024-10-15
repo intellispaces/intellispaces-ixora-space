@@ -3,7 +3,7 @@
 
     <parent>
         <groupId>intellispaces-ixora</groupId>
-        <artifactId>intellispaces-ixora-base-parent</artifactId>
+        <artifactId>intellispaces-ixora-space-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
