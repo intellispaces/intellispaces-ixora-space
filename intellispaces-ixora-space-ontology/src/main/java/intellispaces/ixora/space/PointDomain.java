@@ -1,6 +1,6 @@
 package intellispaces.ixora.space;
 
-import intellispaces.common.base.type.Type;
+import tech.intellispaces.entity.type.Type;
 import intellispaces.jaquarius.annotation.Channel;
 import intellispaces.jaquarius.annotation.Domain;
 
