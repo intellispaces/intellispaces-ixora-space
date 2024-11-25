@@ -1,7 +1,7 @@
-package intellispaces.ixora.space;
+package tech.intellispaces.ixora.space;
 
-import intellispaces.jaquarius.annotation.Channel;
-import intellispaces.jaquarius.annotation.Domain;
+import tech.intellispaces.jaquarius.annotation.Channel;
+import tech.intellispaces.jaquarius.annotation.Domain;
 
 /**
  * Domain of objects represented semantic space channel.<p/>
