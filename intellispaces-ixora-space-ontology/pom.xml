@@ -22,4 +22,12 @@
             </plugin>
         </plugins>
     </build>
+
+    <dependencies>
+        <dependency>
+            <groupId>tech.intellispaces.jaquarius</groupId>
+            <artifactId>intellispaces-jaquarius-annotationprocessor</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
